@@ -1,0 +1,22 @@
+{
+  "name": "git-tool-cli",
+  "version": "1.0.0",
+  "description": "Git tools CLI for using as global package",
+  "main": "gilt.js",
+  "scripts": {},
+  "preferGlobal": true,
+  "bin": {
+    "gilt": "gilt.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shayzogo/git-tool-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shayzogo/git-tool-cli/issues"
+  },
+  "homepage": "https://github.com/shayzogo/git-tool-cli#readme"
+}

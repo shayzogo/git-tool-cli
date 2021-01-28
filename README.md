@@ -8,3 +8,10 @@ Basically this repository is a demonstration of how to develop a CLI tool based 
 # How to use this package
 This package should be installed via npm as global package.<br>
 Please notice: the use of the CLI must be from the relevant project folders (With .git in root).clear
+
+# NPM Package
+This CLI can be found in ```https://www.npmjs.com/package/git-tool-cli```<br>
+You can install it globally with 
+```bash
+npm install -g git-tool-cli
+```

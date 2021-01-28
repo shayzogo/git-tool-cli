@@ -1,7 +1,7 @@
 {
   "name": "git-tool-cli",
-  "version": "1.0.0",
-  "description": "Git tools CLI for using as global package",
+  "version": "0.0.1",
+  "description": "Git tools CLI for using as global package, zogomarket",
   "main": "gilt.js",
   "scripts": {},
   "preferGlobal": true,
